@@ -1,6 +1,7 @@
 -  Hi, I’m Ayan
 -  I’m student of NED UNIVERSITY 
--  I’m currently working on Django 
+-  Full Stack Software Developer
+-  Python, JavaScript, Django, Django Rest, React Js, Bootstrap,Dbms, DSA, OOP
   
 
 <!---
