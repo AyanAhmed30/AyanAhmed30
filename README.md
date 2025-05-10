@@ -27,7 +27,8 @@
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hafizayanahmed/)
-- 📫 Email: [ayan3092003@gmail.com](mailto:ayan3092003@gmail.com)
+- 📫 Email: (mailto:ayan3092003@gmail.com)
+- Contact : +923102935352
 
 ---
 
