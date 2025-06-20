@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Bootstrap 
 - **Backend:** Django, Django REST Framework
 - **Database:** MySQL, DBMS Concepts
 - **Methodologies:** Agile Development, SRS Documentation, Software Testing
@@ -28,6 +28,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hafizayanahmed/)
 - 📫 Email: (mailto:ayan3092003@gmail.com)
+- Portfolio: https://ayanahmed-portfolio.netlify.app/
 - Contact : +923102935352
 
 ---
