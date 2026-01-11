@@ -1,36 +1,30 @@
- Hi, I'm Hafiz Ayan Ahmed
+HAFIZ AYAN AHMED
 
- Student at NED University of Engineering and Technology
- Passionate about full-stack web development and software engineering
+Student at NED University of Engineering & Technology
+Full Stack Engineer | Software Enginner
 
----
+Tech Stack
 
- Tech Stack
+Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap
+Backend: Django, Django REST Framework, RESTful APIs
+Databases: MySQL, PostgreSQL, MongoDB
+Methodologies & Tools: Agile Development, SRS Documentation, Software Testing, Git
 
-- Frontend: HTML, CSS, JavaScript, React, Tailwind, Bootstrap 
-- Backend: Django, Django REST Framework
-- Database: MySQL, DBMS Concepts
-- Methodologies: Agile Development, SRS Documentation, Software Testing
+What I’m Learning
 
----
+Building RESTful APIs with Django REST Framework
 
- What I’m Learning
+Developing scalable frontends using React.js and Next.js
 
-- Building RESTful APIs with Django REST Framework
-- Developing scalable frontends using React js and Next js
-- Practicing Agile workflows and improving team collaboration
+Practicing Agile workflows and improving team collaboration
 
----
+Connect with Me
 
+LinkedIn: linkedin.com/in/hafizayanahmed
 
+Email: ayan3092003@gmail.com
 
-## 🤝 Let's Connect
+Portfolio: ayanahmed-portfolio.netlify.app
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hafizayanahmed/)
-- 📫 Email: (mailto:ayan3092003@gmail.com)
-- Portfolio: https://ayanahmed-portfolio.netlify.app/
-- Contact : +923102935352
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+Contact: +92 310 2935352
+GitHub: github.com/AyanAhmed30
