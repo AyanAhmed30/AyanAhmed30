@@ -1,10 +1,13 @@
 # Hey there, I'm Hafiz Ayan Ahmed 
 
-## Software Engineer | Full Stack Developer 
+## Full Stack Engineer | Django REST Framework & React.js Specialist
 
 🔗 Portfolio: https://hafizayanportfolio.netlify.app/
+
 🔗 LinkedIn: https://linkedin.com/in/hafizayanahmed
+
 📧 Email: ayan3092003@gmail.com
+
 📱 Contact: +92 310 2935352
 
 Computer Systems Engineering @ NED University | Building scalable web solutions that matter
@@ -115,8 +118,13 @@ I'm constantly learning and building. Check out my repositories to see what I'm 
 I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss technology, explore potential projects, or just chat about software engineering, feel free to reach out!
 
 Portfolio: https://hafizayanportfolio.netlify.app/
+
 LinkedIn: https://linkedin.com/in/hafizayanahmed
+
 Email: ayan3092003@gmail.com
+
 Location: Karachi, Pakistan
 
 ---
+
+"Code is like humor. When you have to explain it, it's bad." – Cory House
