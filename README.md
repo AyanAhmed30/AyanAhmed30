@@ -1,6 +1,6 @@
 # Hey there, I'm Hafiz Ayan Ahmed 
 
-## Full Stack Engineer | Django REST Framework & React.js Specialist
+## Software Engineer | Full Stack Developer
 
 🔗 Portfolio: https://hafizayanportfolio.netlify.app/
 
