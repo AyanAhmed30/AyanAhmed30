@@ -2,10 +2,10 @@
 
 ## Software Engineer | Full Stack Developer 
 
-Portfolio: https://hafizayanportfolio.netlify.app/
-LinkedIn: https://linkedin.com/in/hafizayanahmed
-Email: ayan3092003@gmail.com
-Contact: +92 310 2935352
+🔗 Portfolio: https://hafizayanportfolio.netlify.app/
+🔗 LinkedIn: https://linkedin.com/in/hafizayanahmed
+📧 Email: ayan3092003@gmail.com
+📱 Contact: +92 310 2935352
 
 Computer Systems Engineering @ NED University | Building scalable web solutions that matter
 
